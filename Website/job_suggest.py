@@ -36,7 +36,7 @@ def find_nearby_cities_along_route(route_coords, radius_km):
     return list(nearby_cities)  # Convert set back to list for Streamlit
 
 # Streamlit app layout
-st.title("Optimal Route Finder")
+st.title("Intermediate Job Suggestions")
 
 start_city = st.selectbox("Select the start city:", data['city'].unique())
 end_city = st.selectbox("Select the end city:", data['city'].unique())
