@@ -94,7 +94,7 @@ Supply-Chain-Optimization-main
 ## Contributors
 - [Khanak Agrawal](https://github.com/Khanakag-17)
 - [Ashutosh Singh](https://github.com/ashutosh-singh-03)
-- [Abhishree Soni](https://github.com/your-profile)
+- [Abhishree Soni](https://github.com/abhishree045)
 - Team Necromancers
 
 ---
